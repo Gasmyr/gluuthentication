@@ -1,1 +1,13 @@
-{}
+{
+    "Glauth": {
+        "projectName": "Glauth",
+        "description": "Gluu Auth",
+        "type": "community",
+        "author": "Gasmyr",
+        "version": "0.0.1",
+        "authorWebsite": "https://github.com/Gasmyr/gluuthentication",
+        "githubUri": "https://github.com/Gasmyr/gluuthentication",
+        "license": "MIT",
+        "lastUpdated": "1681374922522"
+    }
+}
