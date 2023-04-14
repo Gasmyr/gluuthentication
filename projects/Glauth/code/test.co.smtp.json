@@ -1,0 +1,63 @@
+[
+  {
+    "id": "Agama-start-Flow-1266dcc4-57fd-43b8-9c98-0e184912518c",
+    "type": "start",
+    "sourcePosition": "right",
+    "data": {
+      "id": "Agama-start-Flow-1266dcc4-57fd-43b8-9c98-0e184912518c",
+      "type": "Agama-start-Flow",
+      "position": {
+        "x": 30,
+        "y": 75
+      },
+      "handles": [],
+      "agamaData": {
+        "id": "Agama-start-Flow-1266dcc4-57fd-43b8-9c98-0e184912518c",
+        "type": "Agama-start-Flow",
+        "hasSuccess": false,
+        "hasFailure": false,
+        "hasRepeat": false,
+        "hasNoRepeat": false,
+        "name": "",
+        "basepath": "",
+        "comment": "",
+        "flowfilename": "",
+        "assignedvariableName": "",
+        "callType": "Call static method",
+        "arguments": "",
+        "logMessage": "",
+        "variableType": "",
+        "templatePath": "",
+        "maxIteration": "",
+        "idpAuthEndpoint": "",
+        "whenVariable": "",
+        "whenConditionInputField": "",
+        "whenValue": "",
+        "returnVariable": "",
+        "asssignmentExpression": "",
+        "asssignedVariableName": "",
+        "javaClassName": "",
+        "javaMethodName": "",
+        "javaVariableName": "",
+        "maxIterationVariableName": "",
+        "logLevel": "",
+        "assignCallbackResult": "",
+        "displayName": "SMTP",
+        "nodeColor": "",
+        "titleColor": "",
+        "descColor": "",
+        "nodeIcon": "material-symbols:line-start-square",
+        "timeout": "",
+        "inputs": "",
+        "configs": "",
+        "flowname": "test.co.smtp"
+      },
+      "inRepeatBlock": false,
+      "whenCondition": ""
+    },
+    "position": {
+      "x": 30,
+      "y": 75
+    }
+  }
+]
