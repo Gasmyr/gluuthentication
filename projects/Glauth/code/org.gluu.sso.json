@@ -10,8 +10,8 @@
 				"id": "Agama-start-Flow-c7b3f33f-24b7-4481-934b-fd2e2a4eb2b4",
 				"type": "Agama-start-Flow",
 				"position": {
-					"x": 28,
-					"y": 79
+					"x": 22,
+					"y": 82
 				},
 				"handles": [],
 				"agamaData": {
@@ -25,9 +25,9 @@
 					"comment": "",
 					"callType": "Call static method",
 					"logLevel": "info",
-					"timeout": "150",
+					"timeout": "50",
 					"inputs": "",
-					"configs": "conf",
+					"configs": "",
 					"displayName": "SSO Flow",
 					"nodeIcon": "material-symbols:battery-1-bar"
 				},
@@ -35,15 +35,15 @@
 				"whenCondition": ""
 			},
 			"position": {
-				"x": 28,
-				"y": 79
+				"x": 22,
+				"y": 82
 			},
 			"selected": true,
+			"dragging": false,
 			"positionAbsolute": {
-				"x": 28,
-				"y": 79
-			},
-			"dragging": false
+				"x": 22,
+				"y": 82
+			}
 		}
 	],
 	"edges": [],
