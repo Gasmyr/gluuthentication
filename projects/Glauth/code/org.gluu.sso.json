@@ -36,14 +36,12 @@
 			},
 			"position": {
 				"x": 30,
-				"y": 135
+				"y": 30
 			},
-			"selected": true,
 			"positionAbsolute": {
 				"x": 30,
-				"y": 135
-			},
-			"dragging": false
+				"y": 30
+			}
 		}
 	],
 	"edges": [],
