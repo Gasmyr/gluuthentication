@@ -10,8 +10,8 @@
 				"id": "Agama-start-Flow-c7b3f33f-24b7-4481-934b-fd2e2a4eb2b4",
 				"type": "Agama-start-Flow",
 				"position": {
-					"x": 22,
-					"y": 82
+					"x": 30,
+					"y": 135
 				},
 				"handles": [],
 				"agamaData": {
@@ -35,15 +35,15 @@
 				"whenCondition": ""
 			},
 			"position": {
-				"x": 22,
-				"y": 82
+				"x": 30,
+				"y": 135
 			},
 			"selected": true,
-			"dragging": false,
 			"positionAbsolute": {
-				"x": 22,
-				"y": 82
-			}
+				"x": 30,
+				"y": 135
+			},
+			"dragging": false
 		}
 	],
 	"edges": [],
