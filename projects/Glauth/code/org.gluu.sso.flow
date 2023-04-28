@@ -1,4 +1,3 @@
 Flow org.gluu.sso
      Basepath ""
-     Timeout 150 seconds
-     Configs conf
+     Timeout 50 seconds
