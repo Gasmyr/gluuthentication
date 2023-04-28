@@ -5,3 +5,4 @@ Flow ccc
      Inputs hi
 Log "@info " hi
 obj = user
+o = obj
