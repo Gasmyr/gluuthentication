@@ -1,4 +1,2 @@
-Flow org.gluu.sso
+Flow __________
      Basepath ""
-     Timeout 50 seconds
-Log "@info " hi
