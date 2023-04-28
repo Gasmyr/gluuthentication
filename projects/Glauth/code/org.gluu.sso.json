@@ -1,39 +1,55 @@
-[
-  {
-    "id": "Agama-start-Flow-c7b3f33f-24b7-4481-934b-fd2e2a4eb2b4",
-    "type": "start",
-    "sourcePosition": "right",
-    "data": {
-      "id": "Agama-start-Flow-c7b3f33f-24b7-4481-934b-fd2e2a4eb2b4",
-      "type": "Agama-start-Flow",
-      "position": {
-        "x": 27,
-        "y": 75
-      },
-      "handles": [],
-      "agamaData": {
-        "id": "Agama-start-Flow-c7b3f33f-24b7-4481-934b-fd2e2a4eb2b4",
-        "type": "Agama-start-Flow",
-        "nodeColor": "",
-        "titleColor": "",
-        "descColor": "",
-        "flowname": "org.gluu.sso",
-        "basepath": "",
-        "comment": "",
-        "callType": "Call static method",
-        "logLevel": "info",
-        "timeout": "150",
-        "inputs": "",
-        "configs": "conf",
-        "displayName": "SSO Flow",
-        "nodeIcon": "material-symbols:battery-1-bar"
-      },
-      "inRepeatBlock": false,
-      "whenCondition": ""
-    },
-    "position": {
-      "x": 30,
-      "y": 30
-    }
-  }
-]
+{
+	"nodes": [
+		{
+			"width": 170,
+			"height": 122,
+			"id": "Agama-start-Flow-c7b3f33f-24b7-4481-934b-fd2e2a4eb2b4",
+			"type": "start",
+			"sourcePosition": "right",
+			"data": {
+				"id": "Agama-start-Flow-c7b3f33f-24b7-4481-934b-fd2e2a4eb2b4",
+				"type": "Agama-start-Flow",
+				"position": {
+					"x": 28,
+					"y": 79
+				},
+				"handles": [],
+				"agamaData": {
+					"id": "Agama-start-Flow-c7b3f33f-24b7-4481-934b-fd2e2a4eb2b4",
+					"type": "Agama-start-Flow",
+					"nodeColor": "",
+					"titleColor": "",
+					"descColor": "",
+					"flowname": "org.gluu.sso",
+					"basepath": "",
+					"comment": "",
+					"callType": "Call static method",
+					"logLevel": "info",
+					"timeout": "150",
+					"inputs": "",
+					"configs": "conf",
+					"displayName": "SSO Flow",
+					"nodeIcon": "material-symbols:battery-1-bar"
+				},
+				"inRepeatBlock": false,
+				"whenCondition": ""
+			},
+			"position": {
+				"x": 28,
+				"y": 79
+			},
+			"selected": true,
+			"positionAbsolute": {
+				"x": 28,
+				"y": 79
+			},
+			"dragging": false
+		}
+	],
+	"edges": [],
+	"viewport": {
+		"x": 10,
+		"y": 15,
+		"zoom": 1
+	}
+}
