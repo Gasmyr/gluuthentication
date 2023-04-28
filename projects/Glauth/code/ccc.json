@@ -3,6 +3,51 @@
 		{
 			"width": 170,
 			"height": 122,
+			"id": "Agama-assignment-Node-e2dd3e25-d69d-494d-923c-d313aa91317a",
+			"position": {
+				"x": 430,
+				"y": 75
+			},
+			"type": "assignment",
+			"data": {
+				"id": "Agama-assignment-Node-e2dd3e25-d69d-494d-923c-d313aa91317a",
+				"type": "Agama-assignment-Node",
+				"parentId": "Agama-log-Node-f2e9129b-18a3-460f-8c0f-2de472a6840f",
+				"whenCondition": "",
+				"inRepeatBlock": false,
+				"handles": [],
+				"position": {
+					"x": 430,
+					"y": 75
+				},
+				"agamaData": {
+					"id": "Agama-assignment-Node-e2dd3e25-d69d-494d-923c-d313aa91317a",
+					"type": "Agama-assignment-Node",
+					"parentId": "Agama-log-Node-f2e9129b-18a3-460f-8c0f-2de472a6840f",
+					"whenCondition": "",
+					"inRepeatBlock": false,
+					"nodeColor": "",
+					"titleColor": "",
+					"descColor": "",
+					"asssignedVariableName": "obj",
+					"comment": "",
+					"callType": "Call static method",
+					"logLevel": "info",
+					"assignmentExpression": "user",
+					"displayName": "",
+					"nodeIcon": "material-symbols:equal"
+				}
+			},
+			"selected": true,
+			"dragging": false,
+			"positionAbsolute": {
+				"x": 430,
+				"y": 75
+			}
+		},
+		{
+			"width": 170,
+			"height": 122,
 			"id": "Agama-log-Node-f2e9129b-18a3-460f-8c0f-2de472a6840f",
 			"position": {
 				"x": 230,
@@ -81,7 +126,7 @@
 				"x": 30,
 				"y": 75
 			},
-			"selected": true,
+			"selected": false,
 			"dragging": false,
 			"positionAbsolute": {
 				"x": 30,
@@ -95,6 +140,23 @@
 			"type": "straight",
 			"source": "Agama-start-Flow-eb9b0eb6-1e40-4819-bab2-35a267393487",
 			"target": "Agama-log-Node-f2e9129b-18a3-460f-8c0f-2de472a6840f",
+			"label": "",
+			"labelBgPadding": [
+				8,
+				4
+			],
+			"labelBgBorderRadius": 4,
+			"labelBgStyle": {
+				"fill": "#FFCC00",
+				"color": "#fff",
+				"fillOpacity": 0.7
+			}
+		},
+		{
+			"id": "Agama-log-Node-f2e9129b-18a3-460f-8c0f-2de472a6840f-Agama-assignment-Node-e2dd3e25-d69d-494d-923c-d313aa91317a-05afd671-09bc-469a-8e5a-21896243f2ca",
+			"type": "straight",
+			"source": "Agama-log-Node-f2e9129b-18a3-460f-8c0f-2de472a6840f",
+			"target": "Agama-assignment-Node-e2dd3e25-d69d-494d-923c-d313aa91317a",
 			"label": "",
 			"labelBgPadding": [
 				8,
