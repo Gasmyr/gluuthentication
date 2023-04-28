@@ -1,0 +1,39 @@
+[
+  {
+    "id": "Agama-start-Flow-c7b3f33f-24b7-4481-934b-fd2e2a4eb2b4",
+    "type": "start",
+    "sourcePosition": "right",
+    "data": {
+      "id": "Agama-start-Flow-c7b3f33f-24b7-4481-934b-fd2e2a4eb2b4",
+      "type": "Agama-start-Flow",
+      "position": {
+        "x": 17,
+        "y": 102
+      },
+      "handles": [],
+      "agamaData": {
+        "id": "Agama-start-Flow-c7b3f33f-24b7-4481-934b-fd2e2a4eb2b4",
+        "type": "Agama-start-Flow",
+        "nodeColor": "",
+        "titleColor": "",
+        "descColor": "",
+        "flowname": "co.ptech.register",
+        "basepath": "",
+        "comment": "",
+        "callType": "Call static method",
+        "logLevel": "info",
+        "timeout": "100",
+        "inputs": "",
+        "configs": "conf",
+        "displayName": "Registration Flow",
+        "nodeIcon": "ic:baseline-start"
+      },
+      "inRepeatBlock": false,
+      "whenCondition": ""
+    },
+    "position": {
+      "x": 30,
+      "y": 30
+    }
+  }
+]
