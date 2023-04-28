@@ -1,0 +1,4 @@
+Flow co.ptech.register
+     Basepath ""
+     Timeout 100 seconds
+     Configs conf
