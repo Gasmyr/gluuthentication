@@ -1,0 +1,20 @@
+[
+  {
+    "id": "Agama-start-Flow-ff243453-54ae-4da5-8452-97225bc41aca",
+    "type": "start",
+    "sourcePosition": "right",
+    "data": {
+      "id": "Agama-start-Flow-ff243453-54ae-4da5-8452-97225bc41aca",
+      "type": "Agama-start-Flow",
+      "position": {
+        "x": 30,
+        "y": 30
+      },
+      "handles": []
+    },
+    "position": {
+      "x": 30,
+      "y": 30
+    }
+  }
+]
