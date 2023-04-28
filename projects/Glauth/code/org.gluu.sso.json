@@ -3,6 +3,50 @@
 		{
 			"width": 170,
 			"height": 122,
+			"id": "Agama-log-Node-aa465a1c-3ecf-490f-a75f-8ee67cc41ec1",
+			"position": {
+				"x": 219,
+				"y": 108
+			},
+			"type": "log",
+			"data": {
+				"id": "Agama-log-Node-aa465a1c-3ecf-490f-a75f-8ee67cc41ec1",
+				"type": "Agama-log-Node",
+				"parentId": "Agama-start-Flow-c7b3f33f-24b7-4481-934b-fd2e2a4eb2b4",
+				"whenCondition": "",
+				"inRepeatBlock": false,
+				"handles": [],
+				"position": {
+					"x": 219,
+					"y": 108
+				},
+				"agamaData": {
+					"id": "Agama-log-Node-aa465a1c-3ecf-490f-a75f-8ee67cc41ec1",
+					"type": "Agama-log-Node",
+					"parentId": "Agama-start-Flow-c7b3f33f-24b7-4481-934b-fd2e2a4eb2b4",
+					"whenCondition": "",
+					"inRepeatBlock": false,
+					"nodeColor": "",
+					"titleColor": "",
+					"descColor": "",
+					"comment": "",
+					"callType": "Call static method",
+					"logLevel": "info",
+					"logMessage": "hi",
+					"displayName": "",
+					"nodeIcon": "octicon:log-16"
+				}
+			},
+			"selected": true,
+			"dragging": false,
+			"positionAbsolute": {
+				"x": 219,
+				"y": 108
+			}
+		},
+		{
+			"width": 170,
+			"height": 122,
 			"id": "Agama-start-Flow-c7b3f33f-24b7-4481-934b-fd2e2a4eb2b4",
 			"type": "start",
 			"sourcePosition": "right",
@@ -10,8 +54,8 @@
 				"id": "Agama-start-Flow-c7b3f33f-24b7-4481-934b-fd2e2a4eb2b4",
 				"type": "Agama-start-Flow",
 				"position": {
-					"x": 30,
-					"y": 135
+					"x": 19,
+					"y": 108
 				},
 				"handles": [],
 				"agamaData": {
@@ -35,16 +79,36 @@
 				"whenCondition": ""
 			},
 			"position": {
-				"x": 30,
-				"y": 30
+				"x": 19,
+				"y": 108
 			},
 			"positionAbsolute": {
-				"x": 30,
-				"y": 30
+				"x": 19,
+				"y": 108
+			},
+			"selected": false,
+			"dragging": false
+		}
+	],
+	"edges": [
+		{
+			"id": "Agama-start-Flow-c7b3f33f-24b7-4481-934b-fd2e2a4eb2b4-Agama-log-Node-aa465a1c-3ecf-490f-a75f-8ee67cc41ec1-94cdd284-17a1-4bd9-834a-d93dd38bffc9",
+			"type": "straight",
+			"source": "Agama-start-Flow-c7b3f33f-24b7-4481-934b-fd2e2a4eb2b4",
+			"target": "Agama-log-Node-aa465a1c-3ecf-490f-a75f-8ee67cc41ec1",
+			"label": "",
+			"labelBgPadding": [
+				8,
+				4
+			],
+			"labelBgBorderRadius": 4,
+			"labelBgStyle": {
+				"fill": "#FFCC00",
+				"color": "#fff",
+				"fillOpacity": 0.7
 			}
 		}
 	],
-	"edges": [],
 	"viewport": {
 		"x": 10,
 		"y": 15,
