@@ -80,7 +80,11 @@
 					"logLevel": "info",
 					"assignmentExpression": "user",
 					"displayName": "",
-					"nodeIcon": "material-symbols:equal"
+					"nodeIcon": "material-symbols:equal",
+					"hasSuccess": "",
+					"hasFailure": "",
+					"hasNoRepeat": false,
+					"hasRepeat": false
 				}
 			},
 			"selected": false,
@@ -233,8 +237,8 @@
 		}
 	],
 	"viewport": {
-		"x": 25,
-		"y": 57,
+		"x": -13,
+		"y": 39,
 		"zoom": 1
 	}
 }
