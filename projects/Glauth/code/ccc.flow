@@ -3,5 +3,4 @@ Flow ccc
      Timeout 45 seconds
      Configs conf
      Inputs hi
-Log "@info " hi
 obj = user
