@@ -3,6 +3,53 @@
 		{
 			"width": 170,
 			"height": 122,
+			"id": "Agama-call-Node-fe0aaa7a-407a-462b-aecf-6871f57d998a",
+			"position": {
+				"x": 630,
+				"y": 75
+			},
+			"type": "call",
+			"data": {
+				"id": "Agama-call-Node-fe0aaa7a-407a-462b-aecf-6871f57d998a",
+				"type": "Agama-call-Node",
+				"parentId": "Agama-assignment-Node-e2dd3e25-d69d-494d-923c-d313aa91317a",
+				"whenCondition": "",
+				"inRepeatBlock": false,
+				"handles": [],
+				"position": {
+					"x": 630,
+					"y": 75
+				},
+				"agamaData": {
+					"id": "Agama-call-Node-fe0aaa7a-407a-462b-aecf-6871f57d998a",
+					"type": "Agama-call-Node",
+					"parentId": "Agama-assignment-Node-e2dd3e25-d69d-494d-923c-d313aa91317a",
+					"whenCondition": "",
+					"inRepeatBlock": false,
+					"nodeColor": "",
+					"titleColor": "",
+					"descColor": "",
+					"asssignedVariableName": "gdf",
+					"comment": "",
+					"javaClassName": "gfg",
+					"javaMethodName": "gdfg",
+					"callType": "Call static method",
+					"logLevel": "info",
+					"arguments": "fd",
+					"displayName": "",
+					"nodeIcon": "material-symbols:code"
+				}
+			},
+			"selected": true,
+			"dragging": false,
+			"positionAbsolute": {
+				"x": 630,
+				"y": 75
+			}
+		},
+		{
+			"width": 170,
+			"height": 122,
 			"id": "Agama-assignment-Node-e2dd3e25-d69d-494d-923c-d313aa91317a",
 			"position": {
 				"x": 430,
@@ -74,7 +121,7 @@
 					"nodeIcon": "material-symbols:battery-2-bar-rounded"
 				}
 			},
-			"selected": true,
+			"selected": false,
 			"dragging": false,
 			"positionAbsolute": {
 				"x": 230,
@@ -160,11 +207,28 @@
 				"color": "#fff",
 				"fillOpacity": 0.7
 			}
+		},
+		{
+			"id": "Agama-assignment-Node-e2dd3e25-d69d-494d-923c-d313aa91317a-Agama-call-Node-fe0aaa7a-407a-462b-aecf-6871f57d998a-4fc98524-91ed-4c59-8232-39e650ea5578",
+			"type": "straight",
+			"source": "Agama-assignment-Node-e2dd3e25-d69d-494d-923c-d313aa91317a",
+			"target": "Agama-call-Node-fe0aaa7a-407a-462b-aecf-6871f57d998a",
+			"label": "",
+			"labelBgPadding": [
+				8,
+				4
+			],
+			"labelBgBorderRadius": 4,
+			"labelBgStyle": {
+				"fill": "#FFCC00",
+				"color": "#fff",
+				"fillOpacity": 0.7
+			}
 		}
 	],
 	"viewport": {
-		"x": 10,
-		"y": 15,
+		"x": -277,
+		"y": 51,
 		"zoom": 1
 	}
 }
