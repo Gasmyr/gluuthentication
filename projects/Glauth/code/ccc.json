@@ -38,7 +38,7 @@
 					"nodeIcon": "material-symbols:equal"
 				}
 			},
-			"selected": true,
+			"selected": false,
 			"dragging": false,
 			"positionAbsolute": {
 				"x": 430,
@@ -66,23 +66,15 @@
 					"y": 75
 				},
 				"agamaData": {
-					"id": "Agama-log-Node-f2e9129b-18a3-460f-8c0f-2de472a6840f",
-					"type": "Agama-log-Node",
-					"parentId": "Agama-start-Flow-eb9b0eb6-1e40-4819-bab2-35a267393487",
-					"whenCondition": "",
-					"inRepeatBlock": false,
 					"nodeColor": "",
 					"titleColor": "",
 					"descColor": "",
 					"comment": "",
-					"callType": "Call static method",
-					"logLevel": "info",
-					"logMessage": "hi",
 					"displayName": "",
-					"nodeIcon": "octicon:log-16"
+					"nodeIcon": "material-symbols:brightness-5-rounded"
 				}
 			},
-			"selected": false,
+			"selected": true,
 			"dragging": false,
 			"positionAbsolute": {
 				"x": 230,
@@ -171,8 +163,8 @@
 		}
 	],
 	"viewport": {
-		"x": 10,
-		"y": 15,
+		"x": -7,
+		"y": 48,
 		"zoom": 1
 	}
 }
