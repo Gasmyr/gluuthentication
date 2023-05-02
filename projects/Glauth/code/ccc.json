@@ -71,7 +71,7 @@
 					"descColor": "",
 					"comment": "",
 					"displayName": "",
-					"nodeIcon": "material-symbols:brightness-5-rounded"
+					"nodeIcon": "material-symbols:battery-2-bar-rounded"
 				}
 			},
 			"selected": true,
@@ -163,8 +163,8 @@
 		}
 	],
 	"viewport": {
-		"x": -7,
-		"y": 48,
+		"x": 10,
+		"y": 15,
 		"zoom": 1
 	}
 }
