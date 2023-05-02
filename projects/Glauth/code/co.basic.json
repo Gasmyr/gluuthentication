@@ -2,6 +2,31 @@
 	"nodes": [
 		{
 			"width": 170,
+			"height": 30,
+			"id": "Agama-note-7d5ed04b-2bb6-45bb-a8dc-7552d74d03b3",
+			"position": {
+				"x": 25,
+				"y": 228
+			},
+			"type": "notes",
+			"data": {
+				"id": "Agama-note-7d5ed04b-2bb6-45bb-a8dc-7552d74d03b3",
+				"type": "Agama-note",
+				"notes": "bbdf fgfd",
+				"position": {
+					"x": 25,
+					"y": 228
+				}
+			},
+			"selected": false,
+			"positionAbsolute": {
+				"x": 25,
+				"y": 228
+			},
+			"dragging": false
+		},
+		{
+			"width": 170,
 			"height": 122,
 			"id": "finish-8b09548e-f374-4f6e-a9f6-283adfc3cb1d",
 			"position": {
@@ -470,11 +495,11 @@
 					"callType": "Call static method",
 					"logLevel": "info",
 					"arguments": "",
-					"displayName": "Create Auth service instance",
+					"displayName": "Create Auth service instance.",
 					"nodeIcon": "material-symbols:code"
 				}
 			},
-			"selected": false,
+			"selected": true,
 			"positionAbsolute": {
 				"x": 154,
 				"y": 74
@@ -723,8 +748,8 @@
 		}
 	],
 	"viewport": {
-		"x": 81.37894421986198,
-		"y": 0.2453344650758993,
-		"zoom": 0.8633395585744118
+		"x": 10,
+		"y": 15,
+		"zoom": 1
 	}
 }
