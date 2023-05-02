@@ -33,7 +33,7 @@
 					"comment": "",
 					"callType": "Call static method",
 					"logLevel": "info",
-					"assignmentExpression": "userObj",
+					"assignmentExpression": "user",
 					"displayName": "",
 					"nodeIcon": "material-symbols:equal"
 				}
