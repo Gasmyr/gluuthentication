@@ -9,5 +9,16 @@
         "githubUri": "https://github.com/Gasmyr/gluuthentication",
         "license": "MIT",
         "lastUpdated": "1681374922522"
+    },
+    "AuthFlows": {
+        "projectName": "AuthFlows",
+        "description": "Authentication Flows",
+        "type": "community",
+        "author": "Gasmyr",
+        "version": "0.0.1",
+        "authorWebsite": "https://github.com/Gasmyr/gluuthentication",
+        "githubUri": "https://github.com/Gasmyr/gluuthentication",
+        "license": "MIT",
+        "lastUpdated": "1683101794524"
     }
 }
