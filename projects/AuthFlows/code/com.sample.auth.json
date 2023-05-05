@@ -3,6 +3,69 @@
 		{
 			"width": 170,
 			"height": 122,
+			"id": "Agama-rrf-Node-c61c9ed0-a385-41bc-a47a-1dcefa507569",
+			"position": {
+				"x": 623,
+				"y": 67
+			},
+			"type": "rrf",
+			"data": {
+				"id": "Agama-rrf-Node-c61c9ed0-a385-41bc-a47a-1dcefa507569",
+				"type": "Agama-rrf-Node",
+				"parentId": "Agama-log-Node-7ef31fc7-3c7d-403f-a7e7-a390269bfec9",
+				"whenCondition": "",
+				"inRepeatBlock": false,
+				"handles": [],
+				"position": {
+					"x": 623,
+					"y": 67
+				},
+				"agamaData": {
+					"id": "Agama-rrf-Node-c61c9ed0-a385-41bc-a47a-1dcefa507569",
+					"type": "Agama-rrf-Node",
+					"hasSuccess": false,
+					"hasFailure": false,
+					"hasRepeat": false,
+					"hasNoRepeat": false,
+					"whenCondition": "",
+					"inRepeatBlock": false,
+					"parentId": "Agama-log-Node-7ef31fc7-3c7d-403f-a7e7-a390269bfec9",
+					"name": "",
+					"basepath": "",
+					"comment": "",
+					"notes": "",
+					"flowfilename": "",
+					"assignedvariableName": "",
+					"callType": "Call static method",
+					"arguments": "",
+					"logMessage": "",
+					"variableType": "",
+					"templatePath": "",
+					"maxIteration": "",
+					"idpAuthEndpoint": "",
+					"whenVariable": "",
+					"whenConditionInputField": "",
+					"whenValue": "",
+					"returnVariable": "",
+					"asssignmentExpression": "",
+					"javaClassName": "",
+					"javaMethodName": "",
+					"javaVariableName": "",
+					"maxIterationVariableName": "",
+					"logLevel": "",
+					"assignCallbackResult": "",
+					"displayName": "",
+					"nodeColor": ""
+				}
+			},
+			"positionAbsolute": {
+				"x": 623,
+				"y": 67
+			}
+		},
+		{
+			"width": 170,
+			"height": 122,
 			"id": "Agama-log-Node-7ef31fc7-3c7d-403f-a7e7-a390269bfec9",
 			"position": {
 				"x": 423,
@@ -187,11 +250,28 @@
 				"color": "#fff",
 				"fillOpacity": 0.7
 			}
+		},
+		{
+			"id": "Agama-log-Node-7ef31fc7-3c7d-403f-a7e7-a390269bfec9-Agama-rrf-Node-c61c9ed0-a385-41bc-a47a-1dcefa507569-f3284887-dfb8-4259-a122-304717c67169",
+			"type": "straight",
+			"source": "Agama-log-Node-7ef31fc7-3c7d-403f-a7e7-a390269bfec9",
+			"target": "Agama-rrf-Node-c61c9ed0-a385-41bc-a47a-1dcefa507569",
+			"label": "",
+			"labelBgPadding": [
+				8,
+				4
+			],
+			"labelBgBorderRadius": 4,
+			"labelBgStyle": {
+				"fill": "#FFCC00",
+				"color": "#fff",
+				"fillOpacity": 0.7
+			}
 		}
 	],
 	"viewport": {
-		"x": 10,
-		"y": 15,
+		"x": -123.5,
+		"y": 69.5,
 		"zoom": 1
 	}
 }
