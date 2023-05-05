@@ -3,6 +3,50 @@
 		{
 			"width": 170,
 			"height": 122,
+			"id": "Agama-log-Node-7ef31fc7-3c7d-403f-a7e7-a390269bfec9",
+			"position": {
+				"x": 423,
+				"y": 67
+			},
+			"type": "log",
+			"data": {
+				"id": "Agama-log-Node-7ef31fc7-3c7d-403f-a7e7-a390269bfec9",
+				"type": "Agama-log-Node",
+				"parentId": "Agama-call-Node-95c10dd2-5e8d-4c41-9c3a-b39a2988d713",
+				"whenCondition": "",
+				"inRepeatBlock": false,
+				"handles": [],
+				"position": {
+					"x": 423,
+					"y": 67
+				},
+				"agamaData": {
+					"id": "Agama-log-Node-7ef31fc7-3c7d-403f-a7e7-a390269bfec9",
+					"type": "Agama-log-Node",
+					"parentId": "Agama-call-Node-95c10dd2-5e8d-4c41-9c3a-b39a2988d713",
+					"whenCondition": "",
+					"inRepeatBlock": false,
+					"nodeColor": "",
+					"titleColor": "",
+					"descColor": "",
+					"comment": "",
+					"callType": "Call static method",
+					"logLevel": "info",
+					"logMessage": "hi",
+					"displayName": "",
+					"nodeIcon": "octicon:log-16"
+				}
+			},
+			"selected": true,
+			"dragging": false,
+			"positionAbsolute": {
+				"x": 423,
+				"y": 67
+			}
+		},
+		{
+			"width": 170,
+			"height": 122,
 			"id": "Agama-call-Node-95c10dd2-5e8d-4c41-9c3a-b39a2988d713",
 			"position": {
 				"x": 223,
@@ -40,7 +84,7 @@
 					"nodeIcon": "material-symbols:code"
 				}
 			},
-			"selected": true,
+			"selected": false,
 			"dragging": false,
 			"positionAbsolute": {
 				"x": 223,
@@ -115,6 +159,23 @@
 			"type": "straight",
 			"source": "Agama-start-Flow-78b8c485-23c7-42ce-a79f-01be52929135",
 			"target": "Agama-call-Node-95c10dd2-5e8d-4c41-9c3a-b39a2988d713",
+			"label": "",
+			"labelBgPadding": [
+				8,
+				4
+			],
+			"labelBgBorderRadius": 4,
+			"labelBgStyle": {
+				"fill": "#FFCC00",
+				"color": "#fff",
+				"fillOpacity": 0.7
+			}
+		},
+		{
+			"id": "Agama-call-Node-95c10dd2-5e8d-4c41-9c3a-b39a2988d713-Agama-log-Node-7ef31fc7-3c7d-403f-a7e7-a390269bfec9-cd73dd80-dd5b-4213-ba70-396dabe83ad0",
+			"type": "straight",
+			"source": "Agama-call-Node-95c10dd2-5e8d-4c41-9c3a-b39a2988d713",
+			"target": "Agama-log-Node-7ef31fc7-3c7d-403f-a7e7-a390269bfec9",
 			"label": "",
 			"labelBgPadding": [
 				8,
