@@ -1,0 +1,52 @@
+[
+  {
+    "id": "Agama-start-Flow-95cb8fb2-6bbd-49d8-bf4a-07abc46c8f44",
+    "type": "start",
+    "sourcePosition": "right",
+    "data": {
+      "id": "Agama-start-Flow-95cb8fb2-6bbd-49d8-bf4a-07abc46c8f44",
+      "type": "Agama-start-Flow",
+      "position": {
+        "x": 30,
+        "y": 30
+      },
+      "handles": [],
+      "agamaData": {
+        "id": "Agama-start-Flow-95cb8fb2-6bbd-49d8-bf4a-07abc46c8f44",
+        "type": "Agama-start-Flow",
+        "hasSuccess": "",
+        "hasFailure": "",
+        "hasRepeat": false,
+        "hasNoRepeat": false,
+        "name": "",
+        "basepath": "",
+        "comment": "",
+        "notes": "",
+        "flowfilename": "",
+        "assignments": [],
+        "callType": "Call static method",
+        "arguments": "",
+        "logMessage": "",
+        "templatePath": "",
+        "maxIteration": "",
+        "idpAuthEndpoint": "",
+        "variableField": "",
+        "conditionInputField": "",
+        "valueField": "",
+        "returnVariable": "",
+        "javaClassName": "",
+        "javaMethodName": "",
+        "javaVariableName": "",
+        "maxIterationVariableName": "",
+        "logLevel": "",
+        "assignCallbackResult": "",
+        "nodeColor": "",
+        "exceptionVariableField": ""
+      }
+    },
+    "position": {
+      "x": 30,
+      "y": 30
+    }
+  }
+]
