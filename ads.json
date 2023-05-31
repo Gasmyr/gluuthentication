@@ -15,7 +15,7 @@
         "description": "Authentication Flows",
         "type": "community",
         "author": "Gasmyr",
-        "version": "1.0",
+        "version": "1.1.1",
         "authorWebsite": "https://github.com/Gasmyr/gluuthentication",
         "githubUri": "https://github.com/Gasmyr/gluuthentication",
         "license": "MIT",
