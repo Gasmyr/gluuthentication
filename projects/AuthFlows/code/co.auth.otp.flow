@@ -1,2 +1,6 @@
 Flow co.auth.otp
      Basepath ""
+     Timeout 100 seconds
+     Configs conf
+     Inputs hi
+Log "@warn " stop
