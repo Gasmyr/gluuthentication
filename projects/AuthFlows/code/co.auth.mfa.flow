@@ -1,3 +1,4 @@
 Flow co.auth.mfa
      Basepath ""
+     Configs configs
 Log "@warn " done
