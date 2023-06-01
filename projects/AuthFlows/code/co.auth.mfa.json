@@ -64,7 +64,7 @@
 					"nodeIcon": "octicon:log-16"
 				}
 			},
-			"selected": true,
+			"selected": false,
 			"dragging": false,
 			"positionAbsolute": {
 				"x": 225,
@@ -99,7 +99,13 @@
 					"comment": "",
 					"notes": "",
 					"flowfilename": "",
-					"assignments": [],
+					"assignments": [
+						{
+							"variableTypeCheck": true,
+							"assignmentExpression": "",
+							"assignedVariableName": ""
+						}
+					],
 					"callType": "Call static method",
 					"arguments": "",
 					"logMessage": "",
@@ -119,14 +125,16 @@
 					"displayName": "MFA Flow",
 					"nodeColor": "",
 					"exceptionVariableField": "",
-					"flowname": "co.auth.mfa"
+					"flowname": "co.auth.mfa",
+					"nodeIcon": "material-symbols:line-start-square",
+					"configs": "configs"
 				}
 			},
 			"position": {
 				"x": 25,
 				"y": 123
 			},
-			"selected": false,
+			"selected": true,
 			"positionAbsolute": {
 				"x": 25,
 				"y": 123
