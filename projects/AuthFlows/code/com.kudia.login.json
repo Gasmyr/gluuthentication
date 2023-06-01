@@ -1,56 +1,169 @@
-[
-  {
-    "id": "Agama-start-Flow-002f96f1-6348-40b7-8ffc-93208498d7b1",
-    "type": "start",
-    "sourcePosition": "right",
-    "data": {
-      "id": "Agama-start-Flow-002f96f1-6348-40b7-8ffc-93208498d7b1",
-      "type": "Agama-start-Flow",
-      "position": {
-        "x": 30,
-        "y": 30
-      },
-      "handles": [],
-      "inRepeatBlock": false,
-      "agamaData": {
-        "id": "Agama-start-Flow-002f96f1-6348-40b7-8ffc-93208498d7b1",
-        "type": "Agama-start-Flow",
-        "hasSuccess": false,
-        "hasFailure": false,
-        "hasRepeat": false,
-        "hasNoRepeat": false,
-        "inRepeatBlock": false,
-        "name": "",
-        "basepath": "",
-        "comment": "",
-        "notes": "",
-        "flowfilename": "",
-        "assignments": [],
-        "callType": "Call static method",
-        "arguments": "",
-        "logMessage": "",
-        "templatePath": "",
-        "maxIteration": "",
-        "idpAuthEndpoint": "",
-        "variableField": "",
-        "conditionInputField": "",
-        "valueField": "",
-        "returnVariable": "",
-        "javaClassName": "",
-        "javaMethodName": "",
-        "javaVariableName": "",
-        "maxIterationVariableName": "",
-        "logLevel": "",
-        "assignCallbackResult": "",
-        "displayName": "Login Flow",
-        "nodeColor": "",
-        "exceptionVariableField": "",
-        "flowname": "com.kudia.login"
-      }
-    },
-    "position": {
-      "x": 30,
-      "y": 30
-    }
-  }
-]
+{
+	"nodes": [
+		{
+			"width": 170,
+			"height": 122,
+			"id": "Agama-log-Node-dfaca42b-b366-4674-b04c-0457dc341e0b",
+			"position": {
+				"x": 225,
+				"y": 103
+			},
+			"type": "log",
+			"data": {
+				"id": "Agama-log-Node-dfaca42b-b366-4674-b04c-0457dc341e0b",
+				"type": "Agama-log-Node",
+				"parentId": "Agama-start-Flow-002f96f1-6348-40b7-8ffc-93208498d7b1",
+				"whenCondition": "",
+				"inRepeatBlock": false,
+				"handles": [],
+				"position": {
+					"x": 225,
+					"y": 103
+				},
+				"agamaData": {
+					"id": "Agama-log-Node-dfaca42b-b366-4674-b04c-0457dc341e0b",
+					"type": "Agama-log-Node",
+					"hasSuccess": false,
+					"hasFailure": false,
+					"hasRepeat": false,
+					"hasNoRepeat": false,
+					"whenCondition": "",
+					"inRepeatBlock": false,
+					"parentId": "Agama-start-Flow-002f96f1-6348-40b7-8ffc-93208498d7b1",
+					"name": "",
+					"basepath": "",
+					"comment": "",
+					"notes": "",
+					"flowfilename": "",
+					"assignments": [
+						{
+							"variableTypeCheck": true,
+							"assignmentExpression": "",
+							"assignedVariableName": ""
+						}
+					],
+					"callType": "Call static method",
+					"arguments": "",
+					"logMessage": "done",
+					"templatePath": "",
+					"maxIteration": "",
+					"idpAuthEndpoint": "",
+					"variableField": "",
+					"conditionInputField": "",
+					"valueField": "",
+					"returnVariable": "",
+					"javaClassName": "",
+					"javaMethodName": "",
+					"javaVariableName": "",
+					"maxIterationVariableName": "",
+					"logLevel": "info",
+					"assignCallbackResult": "",
+					"displayName": "",
+					"nodeColor": "",
+					"exceptionVariableField": "",
+					"nodeIcon": "octicon:log-16"
+				}
+			},
+			"selected": false,
+			"dragging": false,
+			"positionAbsolute": {
+				"x": 225,
+				"y": 103
+			}
+		},
+		{
+			"width": 170,
+			"height": 122,
+			"id": "Agama-start-Flow-002f96f1-6348-40b7-8ffc-93208498d7b1",
+			"type": "start",
+			"sourcePosition": "right",
+			"data": {
+				"id": "Agama-start-Flow-002f96f1-6348-40b7-8ffc-93208498d7b1",
+				"type": "Agama-start-Flow",
+				"position": {
+					"x": 25,
+					"y": 103
+				},
+				"handles": [],
+				"inRepeatBlock": false,
+				"agamaData": {
+					"id": "Agama-start-Flow-002f96f1-6348-40b7-8ffc-93208498d7b1",
+					"type": "Agama-start-Flow",
+					"hasSuccess": false,
+					"hasFailure": false,
+					"hasRepeat": false,
+					"hasNoRepeat": false,
+					"inRepeatBlock": false,
+					"name": "",
+					"basepath": "",
+					"comment": "",
+					"notes": "",
+					"flowfilename": "",
+					"assignments": [
+						{
+							"variableTypeCheck": true,
+							"assignmentExpression": "",
+							"assignedVariableName": ""
+						}
+					],
+					"callType": "Call static method",
+					"arguments": "",
+					"logMessage": "",
+					"templatePath": "",
+					"maxIteration": "",
+					"idpAuthEndpoint": "",
+					"variableField": "",
+					"conditionInputField": "",
+					"valueField": "",
+					"returnVariable": "",
+					"javaClassName": "",
+					"javaMethodName": "",
+					"javaVariableName": "",
+					"maxIterationVariableName": "",
+					"logLevel": "",
+					"assignCallbackResult": "",
+					"displayName": "Login Flow",
+					"nodeColor": "",
+					"exceptionVariableField": "",
+					"flowname": "com.kudia.login",
+					"nodeIcon": "material-symbols:line-start-square",
+					"configs": "confss"
+				}
+			},
+			"position": {
+				"x": 25,
+				"y": 103
+			},
+			"selected": true,
+			"dragging": false,
+			"positionAbsolute": {
+				"x": 25,
+				"y": 103
+			}
+		}
+	],
+	"edges": [
+		{
+			"id": "Agama-start-Flow-002f96f1-6348-40b7-8ffc-93208498d7b1-Agama-log-Node-dfaca42b-b366-4674-b04c-0457dc341e0b-99b51f19-bb88-4fb6-bf6d-e57ab8af36b6",
+			"type": "straight",
+			"source": "Agama-start-Flow-002f96f1-6348-40b7-8ffc-93208498d7b1",
+			"target": "Agama-log-Node-dfaca42b-b366-4674-b04c-0457dc341e0b",
+			"label": "",
+			"labelBgPadding": [
+				8,
+				4
+			],
+			"labelBgBorderRadius": 4,
+			"labelBgStyle": {
+				"fill": "#FFCC00",
+				"color": "#fff",
+				"fillOpacity": 0.7
+			}
+		}
+	],
+	"viewport": {
+		"x": 10,
+		"y": 15,
+		"zoom": 1
+	}
+}
